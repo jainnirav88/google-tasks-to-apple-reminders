@@ -1,0 +1,2 @@
+applescript==2021.2.9
+python-dotenv==0.21.0
